@@ -1,6 +1,10 @@
 {
 	"name": "m28.studio",
 	"main": "main.js",
+	"scripts": {
+	    "install": "npm install",
+	    "start": "node main.js"
+	  },
 	"license": "GPL-2.0",
 	"dependencies": {
 		"express": "^4.15.3",
